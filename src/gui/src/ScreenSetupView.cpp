@@ -19,7 +19,7 @@
 #include "ScreenSetupView.h"
 #include "ScreenSetupModel.h"
 #include "ScreenSettingsDialog.h"
-
+#include <QHeaderView>
 #include <QtCore>
 #include <QtGui>
 
