@@ -10,7 +10,7 @@ see [Synergy](https://symless.com/synergy)
 ## usage
 1. Download from Release
 2. Open App and give access to Mac Accessibility Pref Pane
-3. If you encounter any problem with the GUI you can run the vlient or server command in terminal from **synergyc** or **synergys** found in Synergy.app/Contents/ 
+3. If you encounter any problem with the GUI you can run the vlient or server command in terminal from **synergyc** or **synergys** found in *Synergy.app/Contents/* 
 
 ----
 ## Troubleshooting 😡
